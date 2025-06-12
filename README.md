@@ -25,3 +25,9 @@ A collection of computer vision projects implemented using Python, OpenCV, Tenso
 - **Demo Videos**:
   - Link(https://drive.google.com/drive/folders/16R_5C1iovPzOckQm4AEpYBMZZNFF1wIh?dmr=1&ec=wgc-drive-globalnav-goto)
 - **Details**: Includes tracking algorithm implementations and comparisons.
+
+## YOLO + DeepSORT Object Tracking  
+- **Description**: Real-time multi-object tracking using YOLO for detection and DeepSORT for tracking.  
+- **Notebook**: [YOLO_DeepSort_Tracking.ipynb](https://github.com/Ibrahem-Ali-99/Computer-Vision-Projects/blob/main/YOLO%26DeepSort%20Tracking/YOLO_DeepSort_Tracking.zip)  
+- **Demo Video**: [Watch Here](https://github.com/Ibrahem-Ali-99/Computer-Vision-Projects/blob/main/YOLO%26DeepSort%20Tracking/Real-Time%20Object%20Tracking%20with%20YOLO%20%26%20DeepSORT.mp4) (*"Real-Time Object Tracking with YOLO & DeepSORT"*)  
+- **Details**: Includes performance comparisons, custom dataset support, and visualization tools.  
